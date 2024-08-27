@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atishayj4in&label=Profile%20views&color=0e75b6&style=flat" alt="atishayj4in" /> </p>
 
-<p align="left"> <a href="https://twitter.com/atishayj4in" target="blank"><img src="https://img.shields.io/twitter/follow/atishayj4in?logo=twitter&style=for-the-badge" alt="atishayj4in" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development and AIML**
 
 - 📫 How to reach me **atishayjain0002@gmail.com**
