@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atishay Jain</h1>
 <h3 align="center">A Software Engineer and Tech Enthusiast from India</h3>
+<img align = "right" alt = "coding" width = "400" src = "![image](https://github.com/user-attachments/assets/d094cf10-d7b2-4bde-963a-40f4c71c2efd)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atishayj4in&label=Profile%20views&color=0e75b6&style=flat" alt="atishayj4in" /> </p>
 
