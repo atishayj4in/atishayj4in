@@ -25,10 +25,10 @@
 <br>
 <h3 align="left">Recent Projects:</h3>
 <p align="left">
-<a href="https://github.com/atishayj4in/Dog_and_Cat_Classifier" target="blank"><img align="center" src="github_images/Dog_and_Cat_Classifier.jpg" alt="atishayj4in" height="70" width="70" /></a>
-<a href="https://github.com/atishayj4in/Chess_Game" target="blank"><img align="center" src="github_images/python_chess_game.jpg" alt="atishayj4in" height="70" width="70" /></a>
-<a href="https://github.com/atishayj4in/Handwritten_Digits_Classifier" target="blank"><img align="center" src="github_images/Handwritten_Digits_Image_Cla.jpg" alt="atishayj4in" height="70" width="70" /></a>
-<a href="https://github.com/atishayj4in/Multilingual_Audio_Classifier" target="blank"><img align="center" src="github_images/Multilingual_Audio_Classifier.jpg" alt="atishayj4in" height="70" width="70" /></a>
+<a href="https://github.com/atishayj4in/Dog_and_Cat_Classifier" target="blank"><img align="center" src="github_images/Dog_and_Cat_Classifier.jpg" alt="atishayj4in" height="170" width="170" /></a>
+<a href="https://github.com/atishayj4in/Chess_Game" target="blank"><img align="center" src="github_images/python_chess_game.jpg" alt="atishayj4in" height="170" width="170" /></a>
+<a href="https://github.com/atishayj4in/Handwritten_Digits_Classifier" target="blank"><img align="center" src="github_images/Handwritten_Digits_Image_Cla.jpg" alt="atishayj4in" height="170" width="170" /></a>
+<a href="https://github.com/atishayj4in/Multilingual_Audio_Classifier" target="blank"><img align="center" src="github_images/Multilingual_Audio_Classifier.jpg" alt="atishayj4in" height="170" width="170" /></a>
 </p>
 
 <br>
