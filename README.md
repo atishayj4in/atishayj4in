@@ -33,7 +33,7 @@
 <br>
 <h3 align="left">Updated Resume:</h3>
 <p align="left">
-<a href="https://github.com/atishayj4in/Dog_and_Cat_Classifier" target="blank"><img align="center" src="https://drive.google.com/drive/folders/1kAWrmdHYvDM4SiY7IGESBDzQwf1ad1DY" alt="atishayj4in" height="100" width="71" /></a>
+<a href="https://drive.google.com/drive/folders/1kAWrmdHYvDM4SiY7IGESBDzQwf1ad1DY" target="blank"><img align="center" src="github_images/resume_image.png" alt="atishayj4in" height="100" width="71" /></a>
 <div>Click☝for My Updated Resume</div>
 </p>
 <br>
