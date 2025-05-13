@@ -37,10 +37,10 @@
 <div>Click☝for My Updated Resume</div>
 </p>
 <br>
-<h3 align="left">Updated Resume:</h3>
+<h3 align="left">Github Stats:</h3>
 <p align="left">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atishayj4in&show_icons=true&locale=en&layout=compact" alt="atishayj4in" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atishayj4in&show_icons=true&locale=en" alt="atishayj4in" /></p>
 <br>
-![](https://nirzak-streak-stats.vercel.app/?user=atishayj4in&theme=dark&hide_border=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atishayj4in&" alt="atishayj4in" /></p>
